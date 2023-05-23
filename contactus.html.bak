@@ -1,0 +1,60 @@
+<DOCTYPE !HTML>
+
+<html>
+
+
+
+<head>
+	<title>Contact Us</title>
+	<link rel="stylesheet" type="text/css" href="styles.css" />
+	<meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+	
+	<ul class="menubar">
+		<li class="navbarbutton"><a href="index.html">Home</a></li>
+		<li><a href="" class="emptylistitem"> </a></li>
+		<li class="navbarbutton"><a href="aboutus.html">About Us</a></li>
+		<li><a href="" class="emptylistitem"> </a></li>
+		<li class="navbarbutton"><a href="portfolio.html">Portfolio</a></li>
+	</ul>
+	
+
+	<div class="left_side2">
+	</div>
+	
+	<div class="middle_side">
+			<div class="AboutTitle">
+				Contact Us
+			</div>
+			
+		<div class="ContactText">
+			In order to gain contact with us, please message us on discord at:
+			Avarice#4356
+		</div>
+		
+		<div class="ContactText">
+			Or you can drop us an email at AliceDevelopments@protonmail.me!
+		</div>
+		
+		<div class="ContactText">
+			Feel free to drop us a message regarding any project you would like working on, getting a quote for a project, or simply to leave a suggestion on how we can improve our services!
+		</div>
+		
+		<div class="ContactText">
+			If you wish to have one of our developers on standby or employed full time, please drop us a message on discord and we can arrange that for you, with the developer being paid a flat rate for hours worked on a project. If you only need one project working on however, you can contact us to discuss an overall payment for our services. Payment upfront only.
+		</div>
+	</div>
+	
+	<div class="right_side2>
+	</div>
+
+
+
+	
+</body>
+
+</html>
